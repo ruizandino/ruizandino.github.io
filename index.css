@@ -1,0 +1,30 @@
+body{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    width: 100%;
+    background-color: #bbbb;
+}
+.targetas{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   justify-content: space-around;
+   margin-left: 10%;
+   margin-right: 10%;
+   margin-top: 5%;
+}
+.card{
+   margin-bottom: 3%;
+}
+.d-flex{
+    margin-left: 40%;
+  
+}
+.datosUsuario{
+    margin-left: 5%;
+    margin-right: 5%;    
+    margin-bottom: 5%;
+}
+.datos{
+    width: 100%;
+}
